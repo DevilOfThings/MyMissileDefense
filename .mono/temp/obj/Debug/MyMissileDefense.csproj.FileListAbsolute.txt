@@ -1,0 +1,5 @@
+F:\GitHub\MyMissileDefense\.mono\temp\bin\Debug\MyMissileDefense.dll
+F:\GitHub\MyMissileDefense\.mono\temp\bin\Debug\MyMissileDefense.pdb
+F:\GitHub\MyMissileDefense\.mono\temp\obj\Debug\MyMissileDefense.csprojAssemblyReference.cache
+F:\GitHub\MyMissileDefense\.mono\temp\obj\Debug\MyMissileDefense.dll
+F:\GitHub\MyMissileDefense\.mono\temp\obj\Debug\MyMissileDefense.pdb
